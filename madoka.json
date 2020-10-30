@@ -1,0 +1,1458 @@
+[
+  {
+    "name": "Mami's Magical Silver Gun",
+    "set_code": "MM/W17-E001",
+    "rarity": "RR",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "traits": "Magic\u30fbTea",
+    "text": "\u3010CONT\u3011 During your turn, if the character facing this card is level 3 or higher, this card gets +4000 power and +1 soul."
+  },
+  {
+    "name": "Mami Tomoe",
+    "set_code": "MM/W17-E002",
+    "rarity": "RR",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "traits": "Magic\u30fbTea",
+    "text": "\u3010AUTO\u3011 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room. \u3010AUTO\u3011\uff3b(2)] When this card attacks, if a card named \"Tiro Finale\" is in your climax area, you may pay the cost. If you do, choose up to one of your opponent's level 3 or lower characters on the center stage, and put that character into the stock, and your opponent cannot use \"\u3010AUTO\u3011 Encore\" until end of turn. \uff08Your opponent cannot use the \"\u3010AUTO\u3011 Encore \uff3b(3)\uff3d\" rule either.)"
+  },
+  {
+    "name": "Kyubey Urges for a Contract",
+    "set_code": "MM/W17-E003",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "traits": "Alien\u30fbMagic",
+    "text": "\u3010CONT\u3011 All of your other \u300aMagic\u300b characters get +500 power. \u3010CONT\u3011 If you would pay the \"Change\" cost for one of your characters, you may put a marker from underneath this card into your waiting room instead of a card from your stock. \u3010AUTO\u3011 When this card is placed on stage from your hand, put the top card of your deck underneath this card as a marker."
+  },
+  {
+    "name": "Senior Magical Girl, Mami",
+    "set_code": "MM/W17-E004",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "traits": "Magic\u30fbTea",
+    "text": "\u3010AUTO\u3011\uff3b(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one \u300aMagic\u300b character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. \u3010AUTO\u3011\u3010CLOCK\u3011 Shift, Level 0 (At the beginning of your main phase, you may choose a yellow card in your hand and this card in your clock, and exchange them.)"
+  },
+  {
+    "name": "Mami in Pajamas",
+    "set_code": "MM/W17-E005",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "traits": "Magic\u30fbTea",
+    "text": "\u3010AUTO\u3011 When this card is placed on stage from your hand, if the number of other \u300aMagic\u300b characters you have is two or more, this card gets +2000 power until end of turn."
+  },
+  {
+    "name": "Mami Endures Her Fate",
+    "set_code": "MM/W17-E006",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 2,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "traits": "Magic\u30fbTea",
+    "text": "\u3010CONT\u3011 During this card's battle, all players cannot play \"Backup\" from hand."
+  },
+  {
+    "name": "\"Sweets Witch\", Charlotte",
+    "set_code": "MM/W17-E007",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010CONT\u3011 The character facing this card gets +1 soul. \u3010AUTO\u3011 During this card's battle, when the damage you received is canceled, this card gets +1000 power until end of your next turn."
+  },
+  {
+    "name": "Mami is \"No Longer Alone\"",
+    "set_code": "MM/W17-E008",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "traits": "Magic\u30fbTea",
+    "text": "\u3010AUTO\u3011 When this card frontal attacks, if a card named \"I'm not afraid of anything anymore\" is in your climax area, reveal the top card of your deck. If the revealed card is a climax, this card gets -4500 power until end of turn. If it is not, this card gets +4500 power until end of turn. \uff08The revealed card is returned to its original place.\uff09"
+  },
+  {
+    "name": "Mami's Wish in Order to Live",
+    "set_code": "MM/W17-E009",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 1,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "traits": "Magic\u30fbTea",
+    "text": "\u3010CONT\u3011 During your turn, all of your other characters get +1000 power. \u3010AUTO\u3011 Change \uff3b(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Mami Endures Her Fate\" in your waiting room, and put it on the stage position that this card was on."
+  },
+  {
+    "name": "Mami's Bind Magic",
+    "set_code": "MM/W17-E010",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "traits": "Magic\u30fbTea",
+    "text": "\u3010ACT\u3011\u3010COUNTER\u3011 Backup 3000, Level 2 \uff3b(1) Put this card from your hand into your waiting room] \uff08Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.\uff09"
+  },
+  {
+    "name": "Mami Enjoys Tea",
+    "set_code": "MM/W17-E011",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "traits": "Magic\u30fbTea",
+    "text": "\u3010CONT\u3011 Assist All of your characters in front of this card get +500 power. \u3010ACT\u3011\uff3b\u3010REST\u3011 this card] Choose one of your characters with \"Madoka\" in its card name, and that character gets +500 power until end of turn."
+  },
+  {
+    "name": "Mami's Advice",
+    "set_code": "MM/W17-E012",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "traits": "Magic\u30fbTea",
+    "text": "\u3010CONT\u3011 During your turn, this card gets +1000 power."
+  },
+  {
+    "name": "Veteran Magical Girl, Mami",
+    "set_code": "MM/W17-E013",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "traits": "Magic\u30fbTea",
+    "text": "\u3010CONT\u3011 This card gets +1500 power for each marker underneath this card. \u3010AUTO\u3011 When you have refreshed your deck, you may put the top card of your deck underneath this card as a marker."
+  },
+  {
+    "name": "Mami Passes on Hope",
+    "set_code": "MM/W17-E014",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "traits": "Magic\u30fbTea",
+    "text": "-"
+  },
+  {
+    "name": "Mami Watches Over Quietly",
+    "set_code": "MM/W17-E015",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 1,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "traits": "Magic\u30fbTea",
+    "text": "-"
+  },
+  {
+    "name": "Elegant Mami",
+    "set_code": "MM/W17-E016",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 1,
+    "level": 2,
+    "cost": 1,
+    "power": 8500,
+    "soul": 1,
+    "traits": "Magic\u30fbTea",
+    "text": "-"
+  },
+  {
+    "name": "Grief Seed",
+    "set_code": "MM/W17-E017",
+    "rarity": "U",
+    
+    "card_type": 1,
+    "color": 1,
+    "level": 2,
+    "cost": 1,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010COUNTER\u3011 Choose one of your characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of \u300aMagic\u300b characters you have."
+  },
+  {
+    "name": "In an Instant",
+    "set_code": "MM/W17-E018",
+    "rarity": "U",
+    
+    "card_type": 1,
+    "color": 1,
+    "level": 2,
+    "cost": 2,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "Choose one of your opponent's level 2 or lower characters on the center stage, and put it into your opponent's memory."
+  },
+  {
+    "name": "I'm not afraid of anything anymore",
+    "set_code": "MM/W17-E019",
+    "rarity": "CR",
+    
+    "card_type": 2,
+    "color": 1,
+    "level": -1,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010CONT\u3011 All of your characters get +1000 power and +1 soul. \uff08\u3010RETURN\u3011: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.\uff09"
+  },
+  {
+    "name": "Tiro Finale",
+    "set_code": "MM/W17-E020",
+    "rarity": "CC",
+    
+    "card_type": 2,
+    "color": 1,
+    "level": -1,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010AUTO\u3011 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+  },
+  {
+    "name": "Homura's Sad Resignation",
+    "set_code": "MM/W17-E021",
+    "rarity": "RR",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010AUTO\u3011 When this card attacks, if a card named \"I won't rely on anyone anymore\" is in your climax area, and you do not have any other \u3010STAND\u3011 characters on the center stage, this card gets +7000 power until end of turn. \u3010AUTO\u3011\u3010CLOCK\u3011 Shift, Level 2 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them.)"
+  },
+  {
+    "name": "Madoka's \"Secret\"",
+    "set_code": "MM/W17-E022",
+    "rarity": "RR",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "traits": "Magic",
+    "text": "\u3010CONT\u3011 If the number of other \u300aMagic\u300b characters you have is three or more, this card gets +1000 power. \u3010AUTO\u3011 When this card attacks, if a card named \"Don't tell anyone else in class, okay?\" is in your climax area, choose up to one of your other characters, put that character into your memory, and at the beginning of your next draw phase, put that character in your memory on any position of your stage. \u3010AUTO\u3011 When this card attacks, if a card named \"Don't tell anyone else in class, okay?\" is in your climax area, this card gets +2000 power until end of your opponent's next turn."
+  },
+  {
+    "name": "Fair and Beautiful, Homura",
+    "set_code": "MM/W17-E023",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010AUTO\u3011\uff3bReturn two characters in your waiting room to your deck. Shuffle your deck afterwards.] When this card is placed on stage from your hand, you may pay the cost. If you do, this card gets +2000 power until end of turn. \u3010AUTO\u3011\u3010CLOCK\u3011 Shift, Level 0 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them.)"
+  },
+  {
+    "name": "Homura Watches Over",
+    "set_code": "MM/W17-E024",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010ACT\u3011 Brainstorm \uff3b(1) \u3010REST\u3011 two of your characters\uff3d Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one \u300aMagic\u300b character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+  },
+  {
+    "name": "Homura's Hidden Feelings",
+    "set_code": "MM/W17-E025",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 1,
+    "cost": 0,
+    "power": 6000,
+    "soul": 1,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010CONT\u3011 If the number of \u300aMagic\u300b characters you have is two or less, you cannot play this card from your hand."
+  },
+  {
+    "name": "Magical Girl of Bows, Madoka",
+    "set_code": "MM/W17-E026",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 1,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "traits": "Magic",
+    "text": "\u3010CONT\u3011 If the number of cards in your stock is four or more, this card gets +1000 power."
+  },
+  {
+    "name": "Madoka's Swaying Feelings",
+    "set_code": "MM/W17-E027",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "traits": "Magic",
+    "text": "\u3010CONT\u3011 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. \u3010AUTO\u3011 Change \uff3b(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Ultimate Madoka\" in your waiting room, and put it on the stage position that this card was on."
+  },
+  {
+    "name": "Magical Girl of Time, Homura",
+    "set_code": "MM/W17-E028",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 2,
+    "cost": 2,
+    "power": 8000,
+    "soul": 2,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010CONT\u3011 If the number of cards in your stock is five or more, this card gets +1000 power. \u3010AUTO\u3011\uff3bPut a \u300aMagic\u300b character from your hand into your waiting room & Put this card into your memory] When this card becomes \u3010REVERSE\u3011 in battle, you may pay the cost. If you do, at the beginning of your next draw phase, choose a card named \"Magical Girl of Time, Homura\" in your memory, and put it on any position of your stage."
+  },
+  {
+    "name": "Magical Girl of Time, Homura",
+    "set_code": "MM/W17-E028R",
+    "rarity": "RRR",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 2,
+    "cost": 2,
+    "power": 8000,
+    "soul": 2,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010CONT\u3011 If the number of cards in your stock is five or more, this card gets +1000 power. \u3010AUTO\u3011\uff3bPut a \u300aMagic\u300b character from your hand into your waiting room & Put this card into your memory] When this card becomes \u3010REVERSE\u3011 in battle, you may pay the cost. If you do, at the beginning of your next draw phase, choose a card named \"Magical Girl of Time, Homura\" in your memory, and put it on any position of your stage."
+  },
+  {
+    "name": "End of Karma for Madoka",
+    "set_code": "MM/W17-E029",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 2,
+    "cost": 2,
+    "power": 8500,
+    "soul": 2,
+    "traits": "Magic",
+    "text": "\u3010CONT\u3011 This card gets +1500 power for each marker underneath this card. \u3010AUTO\u3011 When you have refreshed your deck, you may put the top card of your deck underneath this card as a marker."
+  },
+  {
+    "name": "Ultimate Madoka",
+    "set_code": "MM/W17-E030",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "traits": "Magic",
+    "text": "\u3010AUTO\u3011 When this card is placed on stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room. \u3010AUTO\u3011\uff3bPut this card into your memory\uff3d When a card named \"Madoka's Wish\" is placed on your climax area, you may pay the cost. If you do, search your deck for up to one card named \"Homura \"Fights On\"\", and put it on the stage position that this card was on. Shuffle your deck afterwards, and that character gets +3000 power until end of your opponent's next turn."
+  },
+  {
+    "name": "Ultimate Madoka",
+    "set_code": "MM/W17-E030R",
+    "rarity": "RRR",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "traits": "Magic",
+    "text": "\u3010AUTO\u3011 When this card is placed on stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room. \u3010AUTO\u3011\uff3bPut this card into your memory\uff3d When a card named \"Madoka's Wish\" is placed on your climax area, you may pay the cost. If you do, search your deck for up to one card named \"Homura \"Fights On\"\", and put it on the stage position that this card was on. Shuffle your deck afterwards, and that character gets +3000 power until end of your opponent's next turn."
+  },
+  {
+    "name": "Madoka's Bond with Homura",
+    "set_code": "MM/W17-E031",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "traits": "Magic",
+    "text": "\u3010AUTO\u3011\uff3b(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a \u300aMagic\u300b character in your clock, return it to your hand, and put the top card of your deck into your clock. \u3010AUTO\u3011 Bond\uff0f\"Homura's Hidden Feelings\" \uff3b(1)\uff3d \uff08When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Homura's Hidden Feelings\" in your waiting room, and return it to your hand.)"
+  },
+  {
+    "name": "Madoka's Battle with Walpurgisnacht",
+    "set_code": "MM/W17-E032",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "traits": "Magic",
+    "text": "\u3010CONT\u3011 If the number of other characters you have is two or less, this card gets +1500 power."
+  },
+  {
+    "name": "Madoka Protects Hope",
+    "set_code": "MM/W17-E033",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 1,
+    "cost": 1,
+    "power": 1500,
+    "soul": 1,
+    "traits": "Magic",
+    "text": "\u3010AUTO\u3011 When you use this card's \"Backup\", choose one of your green characters in battle, and that character gets +1000 power until end of turn. \u3010ACT\u3011\u3010COUNTER\u3011 Backup 1500, Level 1 \uff3b(1) Put this card from your hand into your waiting room] \uff08Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.\uff09"
+  },
+  {
+    "name": "Homura's Determination",
+    "set_code": "MM/W17-E034",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 1,
+    "cost": 1,
+    "power": 4000,
+    "soul": 1,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010AUTO\u3011 Change \uff3b(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Magical Girl of Time, Homura\" in your waiting room, and put it on the stage position that this card was on. \u3010ACT\u3011\uff3b\u3010REST\u3011 this card\uff3d Choose one of your \u300aMagic\u300b characters, and that character gets +1000 power until end of your opponent's next turn."
+  },
+  {
+    "name": "Time Regressor, Homura",
+    "set_code": "MM/W17-E035",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010AUTO\u3011 When this card is placed on stage from your hand, if the number of cards in your deck is five or less, return all cards in your waiting room to your deck. If you do, shuffle your deck, choose one of your characters named \"End of Karma for Madoka\", put up to two cards from the top of your deck underneath that character as a marker, and all of your characters get +2000 power until end of turn."
+  },
+  {
+    "name": "Homura \"Fights On\"",
+    "set_code": "MM/W17-E036",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010CONT\u3011 Memory If a card named \"Ultimate Madoka\" is in your memory, this card gets +1500 power. \u3010AUTO\u3011 When this card is frontal attacked, look at the top card of your deck, and put it on the top or the bottom of your deck."
+  },
+  {
+    "name": "Madoka Kaname",
+    "set_code": "MM/W17-E037",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "traits": "Magic",
+    "text": "\u3010CONT\u3011 If the number of other \u300aMagic\u300b characters you have is three or more, this card gets +1000 power. \u3010AUTO\u3011 When this card is placed on stage from your hand, all of your characters get +2000 power until end of turn. \u3010ACT\u3011\uff3b(1)] This card gets +2000 power until end of turn."
+  },
+  {
+    "name": "Homura Akemi",
+    "set_code": "MM/W17-E038",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010CONT\u3011 If the number of cards in your stock is four or less, this card gets +500 power, and \"\u3010AUTO\u3011 Encore \uff3bPut a character from your hand into your waiting room\uff3d\". \u3010CONT\u3011 The character facing this card gets -1 soul."
+  },
+  {
+    "name": "Transfer Student, Homura",
+    "set_code": "MM/W17-E039",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010CONT\u3011 Assist All of your characters in front of this card get +500 power."
+  },
+  {
+    "name": "Homura, Girl Who Embraces the Bond",
+    "set_code": "MM/W17-E040",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010AUTO\u3011 Bond\uff0f\"Madoka's Swaying Feelings\" \uff3b(1)\uff3d \uff08When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Madoka's Swaying Feelings\" in your waiting room, and return it to your hand.)"
+  },
+  {
+    "name": "Homura Cares for Madoka",
+    "set_code": "MM/W17-E041",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010CONT\u3011 If you have another character with \"Madoka\" in its card name, this card gets +1500 power."
+  },
+  {
+    "name": "Madoka: \"In order to protect everyone\"",
+    "set_code": "MM/W17-E042",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "traits": "Magic",
+    "text": "\u3010AUTO\u3011 When this card attacks, choose another of your \u300aMagic\u300b characters, and that character gets +1000 power until end of your opponent's next turn."
+  },
+  {
+    "name": "Nurse's Aide, Madoka",
+    "set_code": "MM/W17-E043",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "traits": "Magic",
+    "text": "\u3010AUTO\u3011\uff3b(1)] When this card attacks, if a card named \"Girl from the Dream\" is in your climax area, you may pay the cost. If you do, choose a character in your clock, return it to your hand, and put the top card of your deck into your clock."
+  },
+  {
+    "name": "Hitomi Shizuki",
+    "set_code": "MM/W17-E044",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "traits": "Music",
+    "text": "\u3010AUTO\u3011 When this card attacks, all of your other characters get +1 level until end of turn."
+  },
+  {
+    "name": "Dark-haired Girl, Homura",
+    "set_code": "MM/W17-E045",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "traits": "Magic\u30fbTime",
+    "text": "-"
+  },
+  {
+    "name": "Second-year of Mitakihara Middle School, Madoka",
+    "set_code": "MM/W17-E046",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "traits": "Magic",
+    "text": "\u3010AUTO\u3011\u3010CLOCK\u3011 Shift, Level 1 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them.) \u3010ACT\u3011 Brainstorm \uff3b(1)\uff3d Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your \u300aMagic\u300b characters, and that character gets +2000 power until end of turn."
+  },
+  {
+    "name": "Best Friends, Madoka & Homura",
+    "set_code": "MM/W17-E047",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010AUTO\u3011\uff3b(1)] When this card attacks, if a card named \"My very best friend\" is in your climax area, you may pay the cost. If you do, all of your \u300aMagic\u300b characters get +2500 power until end of turn."
+  },
+  {
+    "name": "Madoka of the Blue Skies",
+    "set_code": "MM/W17-E048",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "traits": "Magic",
+    "text": "-"
+  },
+  {
+    "name": "Junko Kaname",
+    "set_code": "MM/W17-E049",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 1,
+    "cost": 1,
+    "power": 4000,
+    "soul": 1,
+    "traits": "",
+    "text": "\u3010CONT\u3011 All of your other characters with \"Madoka\" in its card name get +1000 power."
+  },
+  {
+    "name": "Homura's Lonely Battle",
+    "set_code": "MM/W17-E050",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 1,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "traits": "Magic\u30fbTime",
+    "text": "\u3010AUTO\u3011\uff3b(2)\uff3d When a card named \"Time Manipulation\" is placed on your climax area, you may pay the cost. If you do, this card gets the following ability until end of turn.\"\u3010CONT\u3011 If this card would attack, you may instead choose a character on your opponent's back stage, and have this card frontal attack with the chosen character as the defending character.\" \u3010AUTO\u3011 Encore \uff3bPut a character from your hand into your waiting room\uff3d \uff08When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as \u3010REST\u3011.)"
+  },
+  {
+    "name": "\"Stage-constructing Witch\", Walpurgisnacht",
+    "set_code": "MM/W17-E051",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 2,
+    "cost": 2,
+    "power": 8500,
+    "soul": 2,
+    "traits": "Magic",
+    "text": "\u3010ACT\u3011\uff3b(2)] This card gets +5000 power until end of turn."
+  },
+  {
+    "name": "Madoka's Fluffy Skirt",
+    "set_code": "MM/W17-E052",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 2,
+    "level": 2,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "traits": "Magic",
+    "text": "-"
+  },
+  {
+    "name": "Law of the Cycle",
+    "set_code": "MM/W17-E053",
+    "rarity": "U",
+    
+    "card_type": 1,
+    "color": 2,
+    "level": 1,
+    "cost": 1,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "Search your deck for up to one \u300aMagic\u300b character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+  },
+  {
+    "name": "Meaningless Chain",
+    "set_code": "MM/W17-E054",
+    "rarity": "U",
+    
+    "card_type": 1,
+    "color": 2,
+    "level": 2,
+    "cost": 1,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "Look at up to three cards from the top of your opponent's deck, choose up to one card from among them, and put it on the bottom of your opponent's deck. Put the rest on top of your opponent's deck in any order."
+  },
+  {
+    "name": "Madoka's Wish",
+    "set_code": "MM/W17-E055",
+    "rarity": "CR",
+    
+    "card_type": 1,
+    "color": 2,
+    "level": -1,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010CONT\u3011 All of your characters get +1000 power and +1 soul. (\u3010TREASURE\u3011: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
+  },
+  {
+    "name": "I won't rely on anyone anymore",
+    "set_code": "MM/W17-E056",
+    "rarity": "CC",
+    
+    "card_type": 2,
+    "color": 2,
+    "level": -1,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010CONT\u3011 All of your characters get +1000 power and +1 soul. (\u3010TREASURE\u3011: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
+  },
+  {
+    "name": "Time Manipulation",
+    "set_code": "MM/W17-E057",
+    "rarity": "CC",
+    
+    "card_type": 2,
+    "color": 2,
+    "level": -1,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010AUTO\u3011 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+  },
+  {
+    "name": "My very best friend",
+    "set_code": "MM/W17-E058",
+    "rarity": "CC",
+    
+    "card_type": 2,
+    "color": 2,
+    "level": -1,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010CONT\u3011 All of your characters get +1000 power and +1 soul. \uff08\u3010POOL\u3011: When this card triggers, you may put the top card of your deck into your stock.)"
+  },
+  {
+    "name": "Don't tell anyone else in class, okay?",
+    "set_code": "MM/W17-E059",
+    "rarity": "CC",
+    
+    "card_type": 2,
+    "color": 2,
+    "level": -1,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010CONT\u3011 All of your characters get +2 soul."
+  },
+  {
+    "name": "Girl from the Dream",
+    "set_code": "MM/W17-E060",
+    "rarity": "CC",
+    
+    "card_type": 2,
+    "color": 2,
+    "level": -1,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010AUTO\u3011 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
+  },
+  {
+    "name": "Aggressively Hostile Kyoko",
+    "set_code": "MM/W17-E061",
+    "rarity": "RR",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010AUTO\u3011 Encore \uff3bPut a character from your hand into your waiting room\uff3d \uff08When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as \u3010REST\u3011.) \u3010ACT\u3011\uff3b\u3010REST\u3011 one of your \u300aMagic\u300b characters] This card gets +1500 power until end of turn."
+  },
+  {
+    "name": "Aggressively Hostile Kyoko",
+    "set_code": "MM/W17-E061R",
+    "rarity": "RRR",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010AUTO\u3011 Encore \uff3bPut a character from your hand into your waiting room\uff3d \uff08When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as \u3010REST\u3011.) \u3010ACT\u3011\uff3b\u3010REST\u3011 one of your \u300aMagic\u300b characters] This card gets +1500 power until end of turn."
+  },
+  {
+    "name": "Kyoko Sakura",
+    "set_code": "MM/W17-E062",
+    "rarity": "RR",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010AUTO\u3011 When this card is placed on stage from your hand or by a \"Change\" effect, you may choose a \u300aMagic\u300b character in your waiting room, and return it to your hand. \u3010ACT\u3011\uff3b(1) \u3010REST\u3011 two of your characters\uff3d Until end of turn, this card gets +2000 power and the following ability.\"\u3010AUTO\u3011 When this card's battle opponent becomes \u3010REVERSE\u3011, you may put that character on top of your opponent's deck.\""
+  },
+  {
+    "name": "Kyoko Shares an Apple",
+    "set_code": "MM/W17-E063",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010CONT\u3011 All of your other characters named \"Second-year of Mitakihara Middle School, Sayaka\" get +1000 power. \u3010AUTO\u3011 Bond\uff0f\"Second-year of Mitakihara Middle School, Sayaka\" \uff3b(1)\uff3d \uff08When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Second-year of Mitakihara Middle School, Sayaka\" in your waiting room, and return it to your hand.)"
+  },
+  {
+    "name": "Kyoko's Multi-segment Spear",
+    "set_code": "MM/W17-E064",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 1,
+    "cost": 1,
+    "power": 2000,
+    "soul": 1,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010CONT\u3011 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with \"Assist\". \u3010AUTO\u3011\uff3b(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a \u300aMagic\u300b character in your waiting room, and return it to your hand."
+  },
+  {
+    "name": "Egoist, Kyoko",
+    "set_code": "MM/W17-E065",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 2,
+    "cost": 1,
+    "power": 8000,
+    "soul": 1,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010AUTO\u3011\uff3b(2)] When this card attacks, if a card named \"Sayaka VS Kyoko\" is in your climax area, you may pay the cost. If you do, choose up to two characters in your waiting room, and return them to your hand."
+  },
+  {
+    "name": "Howling Kyoko",
+    "set_code": "MM/W17-E066",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 2,
+    "cost": 2,
+    "power": 8000,
+    "soul": 2,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010CONT\u3011 If you have another character with \"Sayaka\" in its card name, this card gets +1500 power."
+  },
+  {
+    "name": "Supporting Role, Kyubey",
+    "set_code": "MM/W17-E067",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "traits": "Alien\u30fbMagic",
+    "text": "\u3010CONT\u3011 If this card is on your center stage, your other \u300aMagic\u300b character in the middle positin of the center stage gets \"\u3010AUTO\u3011 Encore [Put the top card of your deck into your clock]\"."
+  },
+  {
+    "name": "Kyoko Confesses Her Past",
+    "set_code": "MM/W17-E068",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 0,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010AUTO\u3011 When this card is placed on stage from your hand, if the number of climax in your waiting room is three or more, put the top card of your deck into your clock."
+  },
+  {
+    "name": "Kyoko Wishes for a Miracle",
+    "set_code": "MM/W17-E069",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010AUTO\u3011\uff3bPut a card from your hand into your waiting room\uff3d When a card named \"It sure is lonely, being the only one left\" is placed on your climax area, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's level 2 or lower characters on the center stage, put it into your opponent's waiting room, and at the end of turn, put this card into your waiting room."
+  },
+  {
+    "name": "Kyoko in the Alley",
+    "set_code": "MM/W17-E070",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 2,
+    "cost": 1,
+    "power": 4000,
+    "soul": 1,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010CONT\u3011 Assist All of your characters in front of this card get +1000 power. \u3010AUTO\u3011 Change \uff3b(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Kyoko Sakura\" in your waiting room, and put it on the stage position that this card was on."
+  },
+  {
+    "name": "Kyoko's Red Soul Gem",
+    "set_code": "MM/W17-E071",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010CONT\u3011 Assist All of your characters in front of this card get +500 power."
+  },
+  {
+    "name": "Kyoko Parts at the Subway Platform",
+    "set_code": "MM/W17-E072",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010AUTO\u3011 When this card becomes \u3010REVERSE\u3011, if this card's battle opponent is level 0 or lower, you may \u3010REVERSE\u3011 that character."
+  },
+  {
+    "name": "New Magical Girl, Kyoko",
+    "set_code": "MM/W17-E073",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "traits": "Magic\u30fbSweets",
+    "text": "-"
+  },
+  {
+    "name": "Kyoko Arrives",
+    "set_code": "MM/W17-E074",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 1,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010ACT\u3011\u3010COUNTER\u3011 Backup 1500, Level 1 \uff3bPut this card from your hand into your waiting room\uff3d \uff08Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.\uff09"
+  },
+  {
+    "name": "Extraterrestrial Lifeform, Kyubey",
+    "set_code": "MM/W17-E075",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 1,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "traits": "Alien\u30fbMagic",
+    "text": "-"
+  },
+  {
+    "name": "Magical Girl of Spears, Kyoko",
+    "set_code": "MM/W17-E076",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 3,
+    "level": 2,
+    "cost": 2,
+    "power": 7500,
+    "soul": 2,
+    "traits": "Magic\u30fbSweets",
+    "text": "\u3010CONT\u3011 If the number of other \u300aMagic\u300b characters you have is three or more, this card gets +1000 power. \u3010AUTO\u3011 Encore \uff3bPut a character from your hand into your waiting room\uff3d \uff08When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as \u3010REST\u3011.)"
+  },
+  {
+    "name": "Kyoko's Resolution",
+    "set_code": "MM/W17-E077",
+    "rarity": "U",
+    
+    "card_type": 1,
+    "color": 3,
+    "level": 1,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "All of your \u300aMagic\u300b characters get +1500 power until end of turn."
+  },
+  {
+    "name": "Magical Girl Appears",
+    "set_code": "MM/W17-E078",
+    "rarity": "U",
+    
+    "card_type": 1,
+    "color": 3,
+    "level": 2,
+    "cost": 1,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "Choose up to two characters in your waiting room, return them to your hand, and choose a card in your hand, and put it into your waiting room."
+  },
+  {
+    "name": "Sayaka VS Kyoko",
+    "set_code": "MM/W17-E079",
+    "rarity": "CR",
+    
+    "card_type": 2,
+    "color": 3,
+    "level": -1,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010CONT\u3011 All of your characters get +1000 power and +1 soul. \uff08\u3010COME BACK\u3011: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
+  },
+  {
+    "name": "It sure is lonely, being the only one left",
+    "set_code": "MM/W17-E080",
+    "rarity": "CC",
+    
+    "card_type": 2,
+    "color": 3,
+    "level": -1,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010AUTO\u3011 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+  },
+  {
+    "name": "Rookie Magical Girl, Sayaka",
+    "set_code": "MM/W17-E081",
+    "rarity": "RR",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "traits": "Magic\u30fbLove",
+    "text": "\u3010CONT\u3011 Assist All of your characters in front of this card get \"\u3010AUTO\u3011 Encore \uff3bPut a character from your hand into your waiting room\uff3d\". \u3010AUTO\u3011 Change \uff3b(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Sayaka's Blank Stare\" in your waiting room, and put it on the stage position that this card was on."
+  },
+  {
+    "name": "Rookie Magical Girl, Sayaka",
+    "set_code": "MM/W17-E081R",
+    "rarity": "RRR",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "traits": "Magic\u30fbLove",
+    "text": "\u3010CONT\u3011 Assist All of your characters in front of this card get \"\u3010AUTO\u3011 Encore \uff3bPut a character from your hand into your waiting room\uff3d\". \u3010AUTO\u3011 Change \uff3b(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Sayaka's Blank Stare\" in your waiting room, and put it on the stage position that this card was on."
+  },
+  {
+    "name": "Sayaka Miki",
+    "set_code": "MM/W17-E082",
+    "rarity": "RR",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "traits": "Magic\u30fbLove",
+    "text": "\u3010CONT\u3011 This card gets +500 power for each of your other \u300aMagic\u300b characters. \u3010AUTO\u3011 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room. \u3010AUTO\u3011 When this card becomes \u3010REVERSE\u3011 in battle, put this card into your memory."
+  },
+  {
+    "name": "Sayaka Fights for Others",
+    "set_code": "MM/W17-E083",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "traits": "Magic\u30fbLove",
+    "text": "\u3010CONT\u3011 All of your other characters named \"Howling Kyoko\" get +500 power and \"\u3010AUTO\u3011 Encore \uff3bPut a character from your hand into your waiting room\uff3d\". \u3010CONT\u3011 Assist All of your characters in front of this card get +500 power."
+  },
+  {
+    "name": "Sayaka Looks Up to Mami",
+    "set_code": "MM/W17-E084",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "traits": "Magic\u30fbLove",
+    "text": "\u3010AUTO\u3011 When this card is placed on stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck. \u3010AUTO\u3011 When this card attacks, reveal the top card of your deck. If the revealed card is a \u300aMagic\u300b character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to is its original place.)"
+  },
+  {
+    "name": "Sayaka's Healing Prayers",
+    "set_code": "MM/W17-E085",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 1,
+    "cost": 0,
+    "power": 6500,
+    "soul": 1,
+    "traits": "Magic\u30fbLove",
+    "text": "\u3010AUTO\u3011 When this card becomes \u3010REVERSE\u3011 in battle, put the top card of your deck into your clock, and \u3010REST\u3011 this card."
+  },
+  {
+    "name": "Sayaka's Blank Stare",
+    "set_code": "MM/W17-E086",
+    "rarity": "R",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "traits": "Magic\u30fbLove",
+    "text": "\u3010CONT\u3011 During your opponent's turn, all of your other characters get +1000 power. \u3010AUTO\u3011\uff3b(1) Put this card into your waiting room\uff3d When a card named \"I was stupid, so stupid\" is placed on your climax area, you may pay the cost. If you do, choose a card named \"\"Mermaid Witch\"\" or \"Sayaka Getting Hurt in the Fight\" in your waiting room, put it on the stage position that this card was on, draw a card, and that character gets +1500 power until end of your opponent's next turn."
+  },
+  {
+    "name": "Classmate, Sayaka",
+    "set_code": "MM/W17-E087",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 0,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "traits": "Magic\u30fbLove",
+    "text": "\u3010CONT\u3011 If this card is on your center stage, this card cannot \u3010STAND\u3011 during your stand phase."
+  },
+  {
+    "name": "Sayaka Finds Her Wish",
+    "set_code": "MM/W17-E088",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "traits": "Magic\u30fbLove",
+    "text": "\u3010AUTO\u3011\uff3b(1) Put this card into your waiting room\uff3d When a card named \"Miracles and magic are real\" is placed on your climax area, you may pay the cost. If you do, choose up to one card named \"Sayaka's Blank Stare\" in your hand, put it on the stage position that this card was on, and choose a level 0 or lower character with \"Kamijo\" in its card name in your waiting room, and put that character on any position of your stage."
+  },
+  {
+    "name": "Ally of Justice, Sayaka",
+    "set_code": "MM/W17-E089",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 2,
+    "cost": 1,
+    "power": 8000,
+    "soul": 1,
+    "traits": "Magic\u30fbLove",
+    "text": "\u3010CONT\u3011 If the number of other \u300aMagic\u300b characters you have is three or more, this card gets +1000 power."
+  },
+  {
+    "name": "\"Mermaid Witch\"",
+    "set_code": "MM/W17-E090",
+    "rarity": "U",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 2,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "traits": "Magic\u30fbMusic",
+    "text": "\u3010AUTO\u3011\uff3bPut a character from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do not, put this card into your waiting room."
+  },
+  {
+    "name": "Sayaka's Confrontation",
+    "set_code": "MM/W17-E091",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "traits": "Magic\u30fbLove",
+    "text": "\u3010AUTO\u3011 Bond\uff0f\"Kyoko Wishes for a Miracle\" \uff3b(1)\uff3d \uff08When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Kyoko Wishes for a Miracle\" in your waiting room, and return it to your hand.)"
+  },
+  {
+    "name": "Kyosuke Kamijo",
+    "set_code": "MM/W17-E092",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "traits": "Music",
+    "text": "\u3010AUTO\u3011 When this card attacks, look at the top card of your deck, and put it on the top or the bottom of your deck."
+  },
+  {
+    "name": "Childhood Friend of Kamijo, Sayaka",
+    "set_code": "MM/W17-E093",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "traits": "Magic\u30fbMusic",
+    "text": "-"
+  },
+  {
+    "name": "Second-year of Mitakihara Middle School, Sayaka",
+    "set_code": "MM/W17-E094",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "traits": "Magic\u30fbLove",
+    "text": "-"
+  },
+  {
+    "name": "Magical Girl of Swords, Sayaka",
+    "set_code": "MM/W17-E095",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 1,
+    "cost": 1,
+    "power": 2000,
+    "soul": 1,
+    "traits": "Magic\u30fbLove",
+    "text": "\u3010ACT\u3011\u3010COUNTER\u3011 Backup 2000, Level 1 \uff3b(1) Put this card from your hand into your waiting room] \uff08Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.\uff09"
+  },
+  {
+    "name": "Sayaka Getting Hurt in the Fight",
+    "set_code": "MM/W17-E096",
+    "rarity": "C",
+    
+    "card_type": 0,
+    "color": 4,
+    "level": 2,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "traits": "Magic\u30fbLove",
+    "text": "\u3010AUTO\u3011 When this card becomes \u3010REVERSE\u3011 in battle, put the top card of your deck into your clock, and \u3010REST\u3011 this card. \u3010ACT\u3011\uff3b\u3010REST\u3011 one of your \u300aMagic\u300b characters] This card gets +1000 power until end of turn."
+  },
+  {
+    "name": "Incubator",
+    "set_code": "MM/W17-E097",
+    "rarity": "U",
+    
+    "card_type": 1,
+    "color": 4,
+    "level": 2,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "Choose one of your \u3010STAND\u3011 \u300aMagic\u300b characters, and \u3010REST\u3011 it. If you do, draw up to two cards, choose a card in your hand, and put it into your waiting room."
+  },
+  {
+    "name": "Sayaka's Wish",
+    "set_code": "MM/W17-E098",
+    "rarity": "U",
+    
+    "card_type": 1,
+    "color": 4,
+    "level": 2,
+    "cost": 1,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010COUNTER\u3011 Choose one of your characters with \"Sayaka\" in its card name, and put it into your waiting room. If you do, put the top card of your clock into your hand, and put this card into your memory."
+  },
+  {
+    "name": "I was stupid, so stupid",
+    "set_code": "MM/W17-E099",
+    "rarity": "CR",
+    
+    "card_type": 2,
+    "color": 4,
+    "level": -1,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010CONT\u3011 All of your characters get +1000 power and +1 soul. \uff08\u3010DRAW\u3011: When this card triggers, you may draw a card.)"
+  },
+  {
+    "name": "Miracles and magic are real",
+    "set_code": "MM/W17-E100",
+    "rarity": "CC",
+    
+    "card_type": 2,
+    "color": 4,
+    "level": -1,
+    "cost": 0,
+    "power": -1,
+    "soul": 0,
+    "traits": "",
+    "text": "\u3010CONT\u3011 All of your characters get +2 soul."
+  }
+]
