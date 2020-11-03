@@ -3,7 +3,7 @@
     "name": "Mami's Magical Silver Gun",
     "set_code": "MM/W17-E001",
     "rarity": "RR",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 2,
@@ -17,7 +17,7 @@
     "name": "Mami Tomoe",
     "set_code": "MM/W17-E002",
     "rarity": "RR",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 3,
@@ -31,7 +31,7 @@
     "name": "Kyubey Urges for a Contract",
     "set_code": "MM/W17-E003",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 0,
@@ -45,7 +45,7 @@
     "name": "Senior Magical Girl, Mami",
     "set_code": "MM/W17-E004",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 0,
@@ -59,7 +59,7 @@
     "name": "Mami in Pajamas",
     "set_code": "MM/W17-E005",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 1,
@@ -73,7 +73,7 @@
     "name": "Mami Endures Her Fate",
     "set_code": "MM/W17-E006",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 2,
@@ -87,7 +87,7 @@
     "name": "\"Sweets Witch\", Charlotte",
     "set_code": "MM/W17-E007",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 0,
@@ -101,7 +101,7 @@
     "name": "Mami is \"No Longer Alone\"",
     "set_code": "MM/W17-E008",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 1,
@@ -115,7 +115,7 @@
     "name": "Mami's Wish in Order to Live",
     "set_code": "MM/W17-E009",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 1,
@@ -129,7 +129,7 @@
     "name": "Mami's Bind Magic",
     "set_code": "MM/W17-E010",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 2,
@@ -143,7 +143,7 @@
     "name": "Mami Enjoys Tea",
     "set_code": "MM/W17-E011",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 0,
@@ -157,7 +157,7 @@
     "name": "Mami's Advice",
     "set_code": "MM/W17-E012",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 0,
@@ -171,7 +171,7 @@
     "name": "Veteran Magical Girl, Mami",
     "set_code": "MM/W17-E013",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 0,
@@ -185,7 +185,7 @@
     "name": "Mami Passes on Hope",
     "set_code": "MM/W17-E014",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 1,
@@ -199,7 +199,7 @@
     "name": "Mami Watches Over Quietly",
     "set_code": "MM/W17-E015",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 1,
@@ -213,7 +213,7 @@
     "name": "Elegant Mami",
     "set_code": "MM/W17-E016",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 1,
     "level": 2,
@@ -227,7 +227,7 @@
     "name": "Grief Seed",
     "set_code": "MM/W17-E017",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 1,
     "color": 1,
     "level": 2,
@@ -241,7 +241,7 @@
     "name": "In an Instant",
     "set_code": "MM/W17-E018",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 1,
     "color": 1,
     "level": 2,
@@ -255,7 +255,7 @@
     "name": "I'm not afraid of anything anymore",
     "set_code": "MM/W17-E019",
     "rarity": "CR",
-    
+    "game": "WS",
     "card_type": 2,
     "color": 1,
     "level": -1,
@@ -269,7 +269,7 @@
     "name": "Tiro Finale",
     "set_code": "MM/W17-E020",
     "rarity": "CC",
-    
+    "game": "WS",
     "card_type": 2,
     "color": 1,
     "level": -1,
@@ -283,7 +283,7 @@
     "name": "Homura's Sad Resignation",
     "set_code": "MM/W17-E021",
     "rarity": "RR",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 2,
@@ -297,7 +297,7 @@
     "name": "Madoka's \"Secret\"",
     "set_code": "MM/W17-E022",
     "rarity": "RR",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 2,
@@ -311,7 +311,7 @@
     "name": "Fair and Beautiful, Homura",
     "set_code": "MM/W17-E023",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 0,
@@ -325,7 +325,7 @@
     "name": "Homura Watches Over",
     "set_code": "MM/W17-E024",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 0,
@@ -339,7 +339,7 @@
     "name": "Homura's Hidden Feelings",
     "set_code": "MM/W17-E025",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 1,
@@ -353,7 +353,7 @@
     "name": "Magical Girl of Bows, Madoka",
     "set_code": "MM/W17-E026",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 1,
@@ -367,7 +367,7 @@
     "name": "Madoka's Swaying Feelings",
     "set_code": "MM/W17-E027",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 2,
@@ -381,7 +381,7 @@
     "name": "Magical Girl of Time, Homura",
     "set_code": "MM/W17-E028",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 2,
@@ -395,7 +395,7 @@
     "name": "Magical Girl of Time, Homura",
     "set_code": "MM/W17-E028R",
     "rarity": "RRR",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 2,
@@ -409,7 +409,7 @@
     "name": "End of Karma for Madoka",
     "set_code": "MM/W17-E029",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 2,
@@ -423,7 +423,7 @@
     "name": "Ultimate Madoka",
     "set_code": "MM/W17-E030",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 3,
@@ -437,7 +437,7 @@
     "name": "Ultimate Madoka",
     "set_code": "MM/W17-E030R",
     "rarity": "RRR",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 3,
@@ -451,7 +451,7 @@
     "name": "Madoka's Bond with Homura",
     "set_code": "MM/W17-E031",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 0,
@@ -465,7 +465,7 @@
     "name": "Madoka's Battle with Walpurgisnacht",
     "set_code": "MM/W17-E032",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 0,
@@ -479,7 +479,7 @@
     "name": "Madoka Protects Hope",
     "set_code": "MM/W17-E033",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 1,
@@ -493,7 +493,7 @@
     "name": "Homura's Determination",
     "set_code": "MM/W17-E034",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 1,
@@ -507,7 +507,7 @@
     "name": "Time Regressor, Homura",
     "set_code": "MM/W17-E035",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 2,
@@ -521,7 +521,7 @@
     "name": "Homura \"Fights On\"",
     "set_code": "MM/W17-E036",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 3,
@@ -535,7 +535,7 @@
     "name": "Madoka Kaname",
     "set_code": "MM/W17-E037",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 3,
@@ -549,7 +549,7 @@
     "name": "Homura Akemi",
     "set_code": "MM/W17-E038",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 3,
@@ -563,7 +563,7 @@
     "name": "Transfer Student, Homura",
     "set_code": "MM/W17-E039",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 0,
@@ -577,7 +577,7 @@
     "name": "Homura, Girl Who Embraces the Bond",
     "set_code": "MM/W17-E040",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 0,
@@ -591,7 +591,7 @@
     "name": "Homura Cares for Madoka",
     "set_code": "MM/W17-E041",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 0,
@@ -605,7 +605,7 @@
     "name": "Madoka: \"In order to protect everyone\"",
     "set_code": "MM/W17-E042",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 0,
@@ -619,7 +619,7 @@
     "name": "Nurse's Aide, Madoka",
     "set_code": "MM/W17-E043",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 0,
@@ -633,7 +633,7 @@
     "name": "Hitomi Shizuki",
     "set_code": "MM/W17-E044",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 0,
@@ -647,7 +647,7 @@
     "name": "Dark-haired Girl, Homura",
     "set_code": "MM/W17-E045",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 0,
@@ -661,7 +661,7 @@
     "name": "Second-year of Mitakihara Middle School, Madoka",
     "set_code": "MM/W17-E046",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 1,
@@ -675,7 +675,7 @@
     "name": "Best Friends, Madoka & Homura",
     "set_code": "MM/W17-E047",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 1,
@@ -689,7 +689,7 @@
     "name": "Madoka of the Blue Skies",
     "set_code": "MM/W17-E048",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 1,
@@ -703,7 +703,7 @@
     "name": "Junko Kaname",
     "set_code": "MM/W17-E049",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 1,
@@ -717,7 +717,7 @@
     "name": "Homura's Lonely Battle",
     "set_code": "MM/W17-E050",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 1,
@@ -731,7 +731,7 @@
     "name": "\"Stage-constructing Witch\", Walpurgisnacht",
     "set_code": "MM/W17-E051",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 2,
@@ -745,7 +745,7 @@
     "name": "Madoka's Fluffy Skirt",
     "set_code": "MM/W17-E052",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 2,
     "level": 2,
@@ -759,7 +759,7 @@
     "name": "Law of the Cycle",
     "set_code": "MM/W17-E053",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 1,
     "color": 2,
     "level": 1,
@@ -773,7 +773,7 @@
     "name": "Meaningless Chain",
     "set_code": "MM/W17-E054",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 1,
     "color": 2,
     "level": 2,
@@ -787,7 +787,7 @@
     "name": "Madoka's Wish",
     "set_code": "MM/W17-E055",
     "rarity": "CR",
-    
+    "game": "WS",
     "card_type": 1,
     "color": 2,
     "level": -1,
@@ -801,7 +801,7 @@
     "name": "I won't rely on anyone anymore",
     "set_code": "MM/W17-E056",
     "rarity": "CC",
-    
+    "game": "WS",
     "card_type": 2,
     "color": 2,
     "level": -1,
@@ -815,7 +815,7 @@
     "name": "Time Manipulation",
     "set_code": "MM/W17-E057",
     "rarity": "CC",
-    
+    "game": "WS",
     "card_type": 2,
     "color": 2,
     "level": -1,
@@ -829,7 +829,7 @@
     "name": "My very best friend",
     "set_code": "MM/W17-E058",
     "rarity": "CC",
-    
+    "game": "WS",
     "card_type": 2,
     "color": 2,
     "level": -1,
@@ -843,7 +843,7 @@
     "name": "Don't tell anyone else in class, okay?",
     "set_code": "MM/W17-E059",
     "rarity": "CC",
-    
+    "game": "WS",
     "card_type": 2,
     "color": 2,
     "level": -1,
@@ -857,7 +857,7 @@
     "name": "Girl from the Dream",
     "set_code": "MM/W17-E060",
     "rarity": "CC",
-    
+    "game": "WS",
     "card_type": 2,
     "color": 2,
     "level": -1,
@@ -871,7 +871,7 @@
     "name": "Aggressively Hostile Kyoko",
     "set_code": "MM/W17-E061",
     "rarity": "RR",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 1,
@@ -885,7 +885,7 @@
     "name": "Aggressively Hostile Kyoko",
     "set_code": "MM/W17-E061R",
     "rarity": "RRR",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 1,
@@ -899,7 +899,7 @@
     "name": "Kyoko Sakura",
     "set_code": "MM/W17-E062",
     "rarity": "RR",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 3,
@@ -913,7 +913,7 @@
     "name": "Kyoko Shares an Apple",
     "set_code": "MM/W17-E063",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 0,
@@ -927,7 +927,7 @@
     "name": "Kyoko's Multi-segment Spear",
     "set_code": "MM/W17-E064",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 1,
@@ -941,7 +941,7 @@
     "name": "Egoist, Kyoko",
     "set_code": "MM/W17-E065",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 2,
@@ -955,7 +955,7 @@
     "name": "Howling Kyoko",
     "set_code": "MM/W17-E066",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 2,
@@ -969,7 +969,7 @@
     "name": "Supporting Role, Kyubey",
     "set_code": "MM/W17-E067",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 0,
@@ -983,7 +983,7 @@
     "name": "Kyoko Confesses Her Past",
     "set_code": "MM/W17-E068",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 0,
@@ -997,7 +997,7 @@
     "name": "Kyoko Wishes for a Miracle",
     "set_code": "MM/W17-E069",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 1,
@@ -1011,7 +1011,7 @@
     "name": "Kyoko in the Alley",
     "set_code": "MM/W17-E070",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 2,
@@ -1025,7 +1025,7 @@
     "name": "Kyoko's Red Soul Gem",
     "set_code": "MM/W17-E071",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 0,
@@ -1039,7 +1039,7 @@
     "name": "Kyoko Parts at the Subway Platform",
     "set_code": "MM/W17-E072",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 0,
@@ -1053,7 +1053,7 @@
     "name": "New Magical Girl, Kyoko",
     "set_code": "MM/W17-E073",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 0,
@@ -1067,7 +1067,7 @@
     "name": "Kyoko Arrives",
     "set_code": "MM/W17-E074",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 1,
@@ -1081,7 +1081,7 @@
     "name": "Extraterrestrial Lifeform, Kyubey",
     "set_code": "MM/W17-E075",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 1,
@@ -1095,7 +1095,7 @@
     "name": "Magical Girl of Spears, Kyoko",
     "set_code": "MM/W17-E076",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 3,
     "level": 2,
@@ -1109,7 +1109,7 @@
     "name": "Kyoko's Resolution",
     "set_code": "MM/W17-E077",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 1,
     "color": 3,
     "level": 1,
@@ -1123,7 +1123,7 @@
     "name": "Magical Girl Appears",
     "set_code": "MM/W17-E078",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 1,
     "color": 3,
     "level": 2,
@@ -1137,7 +1137,7 @@
     "name": "Sayaka VS Kyoko",
     "set_code": "MM/W17-E079",
     "rarity": "CR",
-    
+    "game": "WS",
     "card_type": 2,
     "color": 3,
     "level": -1,
@@ -1151,7 +1151,7 @@
     "name": "It sure is lonely, being the only one left",
     "set_code": "MM/W17-E080",
     "rarity": "CC",
-    
+    "game": "WS",
     "card_type": 2,
     "color": 3,
     "level": -1,
@@ -1165,7 +1165,7 @@
     "name": "Rookie Magical Girl, Sayaka",
     "set_code": "MM/W17-E081",
     "rarity": "RR",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 1,
@@ -1179,7 +1179,7 @@
     "name": "Rookie Magical Girl, Sayaka",
     "set_code": "MM/W17-E081R",
     "rarity": "RRR",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 1,
@@ -1193,7 +1193,7 @@
     "name": "Sayaka Miki",
     "set_code": "MM/W17-E082",
     "rarity": "RR",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 3,
@@ -1207,7 +1207,7 @@
     "name": "Sayaka Fights for Others",
     "set_code": "MM/W17-E083",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 0,
@@ -1221,7 +1221,7 @@
     "name": "Sayaka Looks Up to Mami",
     "set_code": "MM/W17-E084",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 0,
@@ -1235,7 +1235,7 @@
     "name": "Sayaka's Healing Prayers",
     "set_code": "MM/W17-E085",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 1,
@@ -1249,7 +1249,7 @@
     "name": "Sayaka's Blank Stare",
     "set_code": "MM/W17-E086",
     "rarity": "R",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 2,
@@ -1263,7 +1263,7 @@
     "name": "Classmate, Sayaka",
     "set_code": "MM/W17-E087",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 0,
@@ -1277,7 +1277,7 @@
     "name": "Sayaka Finds Her Wish",
     "set_code": "MM/W17-E088",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 1,
@@ -1291,7 +1291,7 @@
     "name": "Ally of Justice, Sayaka",
     "set_code": "MM/W17-E089",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 2,
@@ -1305,7 +1305,7 @@
     "name": "\"Mermaid Witch\"",
     "set_code": "MM/W17-E090",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 2,
@@ -1319,7 +1319,7 @@
     "name": "Sayaka's Confrontation",
     "set_code": "MM/W17-E091",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 0,
@@ -1333,7 +1333,7 @@
     "name": "Kyosuke Kamijo",
     "set_code": "MM/W17-E092",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 0,
@@ -1347,7 +1347,7 @@
     "name": "Childhood Friend of Kamijo, Sayaka",
     "set_code": "MM/W17-E093",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 0,
@@ -1361,7 +1361,7 @@
     "name": "Second-year of Mitakihara Middle School, Sayaka",
     "set_code": "MM/W17-E094",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 1,
@@ -1375,7 +1375,7 @@
     "name": "Magical Girl of Swords, Sayaka",
     "set_code": "MM/W17-E095",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 1,
@@ -1389,7 +1389,7 @@
     "name": "Sayaka Getting Hurt in the Fight",
     "set_code": "MM/W17-E096",
     "rarity": "C",
-    
+    "game": "WS",
     "card_type": 0,
     "color": 4,
     "level": 2,
@@ -1403,7 +1403,7 @@
     "name": "Incubator",
     "set_code": "MM/W17-E097",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 1,
     "color": 4,
     "level": 2,
@@ -1417,7 +1417,7 @@
     "name": "Sayaka's Wish",
     "set_code": "MM/W17-E098",
     "rarity": "U",
-    
+    "game": "WS",
     "card_type": 1,
     "color": 4,
     "level": 2,
@@ -1431,7 +1431,7 @@
     "name": "I was stupid, so stupid",
     "set_code": "MM/W17-E099",
     "rarity": "CR",
-    
+    "game": "WS",
     "card_type": 2,
     "color": 4,
     "level": -1,
@@ -1445,7 +1445,7 @@
     "name": "Miracles and magic are real",
     "set_code": "MM/W17-E100",
     "rarity": "CC",
-    
+    "game": "WS",
     "card_type": 2,
     "color": 4,
     "level": -1,

@@ -1,0 +1,15 @@
+{
+    "game": "WS",
+    "name": "Mami's Magical Silver Gun",
+    "set_code": "MM/W17-E001",
+    "rarity": "RR",
+    "cutey": "smile",
+    "card_type": 0,
+    "color": 1,
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "traits": "Magic\u30fbTea",
+    "text": "\u3010CONT\u3011 During your turn, if the character facing this card is level 3 or higher, this card gets +4000 power and +1 soul."
+}
