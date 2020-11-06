@@ -1,31 +1,45 @@
 const axios = require('axios');
 const dotenv = require('dotenv');
-const fs = require('fs');
-
-const token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYm90IiwidXNlcklkIjoxMCwiaWF0IjoxNjA0MjMyNDMxfQ.6VA0-lGDaiWvstkUTFnmN0RUMwFml8crPlp83rMLQEc";
 dotenv.config();
-const axiosConfig = {
-    headers: {
-        'Authorization': `Bearer ${token}`,
-        'Content-Type': 'application/json'
-    }
-};
+const fs = require('fs');
+const firebase = require('firebase/app');
 
-async function script(config) {
+require('firebase/auth');
+
+const config = require('./firebase-config');
+
+firebase.initializeApp(config);
+
+
+async function script() {
     try {
-        const madokaData = await fs.readFileSync('./madoka.json');
+        await firebase.auth().signInWithEmailAndPassword(process.env.EMAIL, process.env.PASSWORD);
+
+        const madokaData = await fs.readFileSync('./bunko.json');
         const data = JSON.parse(madokaData);
-        const resp = await axios.post('http://localhost:3000/weiss-cards/create', data, config);
+        const token = await firebase.auth().currentUser.getIdToken();
+
+        const axiosConfig = {
+            headers: {
+                'Authorization': `Bearer ${token}`,
+                'Content-Type': 'application/json'
+            }
+        };
+
+        const resp = await axios.post('http://localhost:3000/admin/card/create', data, axiosConfig);
+
         if(resp.status != 200) {
             return console.log('error???');
         }
-        console.log("added cards successfully. please check your database!");
+        console.log("added cards successfully. please check your database!", resp.data);
 
     } catch(err) {
         console.log(err);
+    } finally {
+        await firebase.auth().signOut();
     }
 
     return;
 }
 
-script(axiosConfig);
+script();
